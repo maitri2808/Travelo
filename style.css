@@ -1,0 +1,19 @@
+.abc{
+    background-color: rgb(1, 1, 52);
+    color: white;
+}
+.aa img{
+    width: 50px;
+}
+.bb{
+    background-color: rgba(1, 1, 57, 0.973);
+    color: white;
+    margin-top: 20px;
+}
+.cc{
+
+    background-color: rgba(128, 128, 128, 0.479);
+}
+.a1:hover{
+    color: red;
+}
